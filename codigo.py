@@ -17,4 +17,5 @@ if opcao == 2:
 if opcao == 3:
   print(dinheiro)
 else 
-  
+  print("Insira uma opção válida")
+  return 
